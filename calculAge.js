@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
 
-    <script>
         //Calculer l'age
         var num = prompt("Quel est votre année de naissance ?");
         var signal = prompt("Opération (+ ou -) ?");
@@ -18,7 +9,3 @@
         var numeroFinal = prompt("De combien d'années ?");
         numeroFinal = parseInt(numeroFinal);
         var result = 0;
-    </script>
-
-  </body>
-</html>

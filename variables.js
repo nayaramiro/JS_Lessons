@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cours 1</title>
-</head>
-<body>
-    <h2>Hello</h2>
-    
-    <script>
+
         //var = variable globale
         //let = variable locale
         //const = variable constante (ne peut pas être réassignée)
@@ -23,6 +13,4 @@
 
         //const = je ne peux pas réassigner
         const type = "Admin";
-    </script>
-</body>
-</html>
+    

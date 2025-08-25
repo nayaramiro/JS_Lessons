@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
-  <body>
-    <script>
+
       function Person(name) {
         //This est une variable/attribue qui represente l'instance de l'objet
         this.name = name;
@@ -35,6 +27,4 @@
       alert(animal.name);
       person.printName("John");
       alert(person.returnAnimal(animal).type);
-    </script>
-  </body>
-</html>
+    

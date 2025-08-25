@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script>
 
         var names = [
             'Alice',
@@ -17,6 +8,4 @@
         names.push('David'); // ajoute un élément à la fin du tableau
 
         var numbers = new Array(1, 2, 3, 4, 5);
-    </script>
-</body> 
-</html>
+    
